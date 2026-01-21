@@ -7,6 +7,18 @@ We further employ **context conditioning with FiLM modulation** for scene-aware 
 📄 [Read the full manuscript on arXiv](https://arxiv.org/abs/2508.18463)
 
 ---
+## Acknowledgements & Supervision
+
+* **Supervisor: Md. Ashraful Alam, PhD**
+    * Associate Professor, Department of Computer Science and Engineering
+    * BRAC University
+    * Email: ashraful.alam@bracu.ac.bd
+
+* **Co-supervisor: Md Tanzim Reza**
+    * Senior Lecturer, Department of Computer Science and Engineering
+    * BRAC University
+    * Email: tanzim.reza@bracu.ac.bd
+---
 
 ## Key Contributions
 - **Transformer-based encoder**: TimeSformer captures long-range spatiotemporal features from video sequences.  
@@ -82,6 +94,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
