@@ -34,7 +34,7 @@ We further employ **context conditioning with FiLM modulation** for scene-aware 
 
 ### Installation
 ```bash
-git clone https://github.com/tareqaziz825/tareqaziz825-BRACU-CSE-400-FINAL-YEAR-THESIS
+git clone https://github.com/tareqaziz825/BRACU-CSE-400-FINAL-YEAR-THESIS
 .git
 cd Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance
 python -m venv .venv
@@ -85,7 +85,7 @@ If you use this work, please cite our paper and repository:
   title        = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
   author       = {Justice, Mohammod Tareq Aziz and Khan, Md. Rashid Shahriar and Hasan, Md. Abrar},
   year         = {2025},
-  howpublished = {\url{https://github.com/tareqaziz825/tareqaziz825-BRACU-CSE-400-FINAL-YEAR-THESIS}},
+  howpublished = {\url{https://github.com/tareqaziz825/BRACU-CSE-400-FINAL-YEAR-THESIS}},
   note         = {GitHub repository}
 }
 ```
@@ -94,6 +94,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
