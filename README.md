@@ -61,7 +61,7 @@ If you use this work, please cite our paper and repository:
 ```bibtex
 @article{anomaly2025,
   title   = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
-  author  = {Khan, Md. Rashid Shahriar and Hasan, Md. Abrar and Justice, Mohammod Tareq Aziz},
+  author  = {Justice, Mohammod Tareq Aziz and Khan, Md. Rashid Shahriar and Hasan, Md. Abrar},
   journal = {arXiv preprint arXiv:2508.xxxxx}, 
   year    = {2025}
 }
@@ -71,9 +71,9 @@ If you use this work, please cite our paper and repository:
 ```
 @misc{anomaly2025code,
   title        = {Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling},
-  author       = {Khan, Md. Rashid Shahriar and Hasan, Md. Abrar and Justice, Mohammod Tareq Aziz},
+  author       = {Justice, Mohammod Tareq Aziz and Khan, Md. Rashid Shahriar and Hasan, Md. Abrar},
   year         = {2025},
-  howpublished = {\url{https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance}},
+  howpublished = {\url{https://github.com/tareqaziz825/tareqaziz825-BRACU-CSE-400-FINAL-YEAR-THESIS}},
   note         = {GitHub repository}
 }
 ```
@@ -82,6 +82,7 @@ If you use this work, please cite our paper and repository:
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 
 
